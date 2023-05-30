@@ -1,2 +1,3 @@
 # Project exclude paths
-/venvWeather/
+config.py
+/__pycache__
