@@ -1,3 +1,4 @@
 # Project exclude paths
 config.py
+config1.py
 /__pycache__
